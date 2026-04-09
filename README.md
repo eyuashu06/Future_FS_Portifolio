@@ -1,12 +1,8 @@
 # Eyuel Ashenafi | Personal Portfolio Website first task done after gain knowledge from the future intern #futureintern
 
-![Portfolio Screenshot](https://via.placeholder.com/1200x630?text=Eyuel+Ashenafi+Portfolio)
+![Portfolio Screenshot](<img src="images/portfolio-screenshot.png" alt="Portfolio Screenshot")
 
 A modern, fully responsive personal portfolio website showcasing my skills, projects, and professional profile as a Software Engineering student and Full-Stack Developer.
-
-## 🌟 Live Demo
-
-[View Live Portfolio](#) *(Add your live URL here after deployment)*
 
 ## 📋 Table of Contents
 
