@@ -2,22 +2,6 @@
 
 A modern, fully responsive personal portfolio website showcasing my skills, projects, and professional profile as a Software Engineering student and Full-Stack Developer.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Customization](#customization)
-- [Contact Form Setup](#contact-form-setup)
-- [SEO Optimization](#seo-optimization)
-- [Browser Support](#browser-support)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-- [Contact](#contact)
-
 ## ✨ Features
 
 ### Core Features
