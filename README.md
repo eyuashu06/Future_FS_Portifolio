@@ -1,4 +1,4 @@
-# Eyuel Ashenafi | Personal Portfolio Website first task done after gain knowledge fromthe futere intern 
+# Eyuel Ashenafi | Personal Portfolio Website first task done after gain knowledge from the future intern #futureintern
 
 ![Portfolio Screenshot](https://via.placeholder.com/1200x630?text=Eyuel+Ashenafi+Portfolio)
 
