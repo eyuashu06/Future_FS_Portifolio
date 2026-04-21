@@ -1,4 +1,4 @@
-# Eyuel Ashenafi | Personal Portfolio Website first task done after gain knowledge from the future intern #futureintern
+# Eyuel Ashenafi | Personal Portfolio Website first task done after gain knowledge from the future interns #futureinterns
 
 A modern, fully responsive personal portfolio website showcasing my skills, projects, and professional profile as a Software Engineering student and Full-Stack Developer.
 
